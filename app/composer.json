@@ -1,0 +1,16 @@
+{
+    "name": "cggbrunelli/php-docker",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CiceroGB",
+            "email": "brunelli.cg@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
